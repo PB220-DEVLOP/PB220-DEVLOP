@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pb220-devlop&label=Profile%20views&color=0e75b6&style=flat" alt="pb220-devlop" /> </p>
 
-- 🌱 I’m currently learning **persuing BCA from GH RAIOSNI INSITUTE/(Persuing full STACK DEVELOPMENT COURSE FROM RTC)**
+- 🌱 I’m currently learning :- **{persuing BCA from GH RAIOSNI INSITUTE}     ❤️           (Persuing full STACK DEVELOPMENT COURSE FROM RTC)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
