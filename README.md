@@ -1,4 +1,4 @@
-!{LOGO}(https://github.com/PB220-DEVLOP/PB220-DEVLOP/blob/main/HACK.jpg)
+![LOGO STYLE="HEIGHT:100PX"](https://github.com/PB220-DEVLOP/PB220-DEVLOP/blob/main/HACK.jpg )
 <h1 align="center">Hi 👋, I'm PRATIK BHOYAR</h1>
 <h3 align="center">A passionate developer from NAGPUR,MAHARASHTRA, India</h3>
 <img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
