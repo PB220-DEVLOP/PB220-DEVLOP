@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm PATRIK BHOYAR</h1>
-<h3 align="center">A passionate developer from NAGPUR,MAHARASHTRA, India</h3>
-<img align="right" alt="Coding" width="34%" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<h3 align="center">A passionate FULLSTACK from NAGPUR,MAHARASHTRA, India</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pb220-devlop&label=Profile%20views&color=0e75b6&style=flat" alt="pb220-devlop" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pb220-devlop" alt="pb220-devlop" /></a> </p>
+- 🔭 I’m currently working on [blomming buds](https://github.com/PB220-DEVLOP/Bloomingbuds)
 
 - 🌱 I’m currently learning **persuing BCA from GH RAIOSNI INSITUTE/(Persuing full STACK DEVELOPMENT COURSE FROM RTC)**
+
+- 👨‍💻 All of my projects are available at [https://github.com/PB220-DEVLOP?tab=repositories](https://github.com/PB220-DEVLOP?tab=repositories)
 
 - 📫 How to reach me **https://www.linkedin.com/in/pratik-bhoyar-1b1176198**
 
@@ -21,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pb220-devlop&show_icons=true&locale=en&layout=compact" alt="pb220-devlop" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pb220-devlop&show_icons=true&locale=en" alt="pb220-devlop" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pb220-devlop&" alt="pb220-devlop" /></p>
