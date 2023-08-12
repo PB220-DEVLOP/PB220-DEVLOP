@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [blomming buds](https://github.com/PB220-DEVLOP/Bloomingbuds)
 
-- 🌱 I’m currently learning **persuing BCA from GH RAIOSNI INSITUTE/(Persuing full STACK DEVELOPMENT COURSE FROM RTC)**
+- 🌱 I’m currently learning **persuing BCA from GH RAIOSNI INSITUTE
 
 - 👨‍💻 All of my projects are available at [https://github.com/PB220-DEVLOP?tab=repositories](https://github.com/PB220-DEVLOP?tab=repositories)
 
