@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PATRIK BHOYAR</h1>
+<h1 align="center">Hi 👋, I'm PRATIK BHOYAR</h1>
 <h3 align="center">A passionate FULLSTACK from NAGPUR,MAHARASHTRA, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pb220-devlop&label=Profile%20views&color=0e75b6&style=flat" alt="pb220-devlop" /> </p>
